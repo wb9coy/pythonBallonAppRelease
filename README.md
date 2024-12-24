@@ -39,7 +39,7 @@ To run at start refer to systemd/README
 
 Seup RTC
 --------
-In the tools dir execute rtc
+In the scripts dir execute rtc
 
 
 Set as AP
